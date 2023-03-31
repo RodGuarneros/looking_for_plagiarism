@@ -22,3 +22,5 @@ Para tal efecto, este documento tiene las siguientes secciones:
 8. Los resultados en una sola tabla
 9. Comparación Gráfica
 10. Conclusiones
+
+![Imagen1](https://github.com/RodGuarneros/looking_for_plagiarism/blob/main/Comparativo.png)
